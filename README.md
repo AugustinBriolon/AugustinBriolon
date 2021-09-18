@@ -22,3 +22,14 @@ You can follow me on my networks and find me on my portfolio.
 ## Technologies I use
 
 For most of my projects, I use HML 5, CSS 3, JavaScript and PHP for now. ◔_◔
+
+<p align="center">
+	<img src="./images/javascript.svg" width="65" height="65" />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="./images/html.svg" width="65" height="65" />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="./images/php.svg" width="65" height="65" />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./images/css.png" width="65" height="65" />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
