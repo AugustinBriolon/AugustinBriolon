@@ -1,4 +1,4 @@
-<img align="right" width="30%" src="https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif?cid=ecf05e47yng7ezmnf7at7y8xwpcd3h8eo702fjopjc4tvkxt&rid=giphy.gif&ct=g"/></a>
+<img align="right" width="30%" src="https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif?cid=ecf05e47yng7ezmnf7at7y8xwpcd3h8eo702fjopjc4tvkxt&rid=giphy.gif&ct=g"/>
 
 # Hi there, I'm Augustin 👋
 
