@@ -24,12 +24,12 @@ You can follow me on my networks and find me on my portfolio.
 For most of my projects, I use HML 5, CSS 3, JavaScript and PHP for now. 😁
 
 <p align="center">	
-    <img src="./images/html.svg" width="65" height="65" />
+    <img src="./images/html.svg" width="65" height="65" target="_blank" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="./images/css.png" width="65" height="65" />
+    <img src="./images/css.png" width="65" height="65" target="_blank" />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="./images/javascript.svg" width="65" height="65" />
+	<img src="./images/javascript.svg" width="65" height="65" target="_blank" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="./images/php.svg" width="65" height="65" />
+	<img src="./images/php.svg" width="65" height="65" target="_blank" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
