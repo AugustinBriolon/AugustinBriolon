@@ -28,8 +28,10 @@ For most of my projects, I use HML 5, CSS 3, JavaScript and PHP for now. 😁
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="./images/css.png" width="65" height="65" />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="./images/javascript.svg" width="65" height="65" />
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="./images/php.svg" width="65" height="65" />
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./images/javascript.svg" width="65" height="65" />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./images/php.svg" width="65" height="65" />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./images/sass.png" width="65" height="65" />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
