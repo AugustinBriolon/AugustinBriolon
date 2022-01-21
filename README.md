@@ -35,3 +35,10 @@ For most of my projects, I use HML 5, CSS 3, JavaScript and PHP for now. 😁
     <img src="./images/sass.png" width="75" height="60" />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
+
+<h1 align="center">
+
+![Augustin's github stats](https://github-readme-stats.vercel.app/api?username=augustinbriolon&show_icons=true)
+
+</h1>
