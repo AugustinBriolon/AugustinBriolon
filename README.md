@@ -7,7 +7,7 @@
 
 * 🌱    I’m currently learning everything
 * 📘	Here it's my PorFolio : https://briolon.august1.dev
-* 👨‍💻    All of my projects are available at https://github.com/AugustinBriolon 
+* 👨‍💻    All of my projects are available at https://github.com/AugustinBriolon?tab=repositories
 * 📫 	How to reach me: augustin.briolon@gmail.com
 
 <br />
