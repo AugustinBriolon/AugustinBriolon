@@ -26,7 +26,7 @@ For most of my projects, I use to do it with this languages. 😁
 <p align="center">	
     <img src="./images/react.png" width="65" height="60" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="./images/nuxt.png" width="65" height="60" />
+    <img src="./images/nuxt.png" width="65" height="50" />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="./images/vue.png" width="65" height="60" />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
