@@ -37,8 +37,7 @@ For most of my projects, I use to do it with this languages. 😁
 </p>
 
 
-<h1 align="center">
-
-![Augustin's github stats](https://github-readme-stats.vercel.app/api?username=augustinbriolon&show_icons=true)
-
-</h1>
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustinBriolon&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=white&locale=fr" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AugustinBriolon&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=white&locale=fr" />
+</p>
