@@ -2,13 +2,13 @@
 
 # Hi there, I'm Augustin 👋
 
-## I'm a French student developer practicing development since 2020
+## I'm a French developer practicing development since 2020
 
 
-* 🌱    I’m currently learning everything
-* 📘	Here it's my PorFolio : https://briolon.august1.dev
+* 🌱    I’m currently learning eveyday 
+* 📘	Here it's my PorFolio : https://august1.dev
 * 👨‍💻    All of my projects are available at https://github.com/AugustinBriolon?tab=repositories
-* 📫 	How to reach me: augustin.briolon@gmail.com
+* 📫 	How to reach me: briolon@august1.dev
 
 <br />
 
@@ -21,7 +21,7 @@ You can follow me on my networks and find me on my portfolio.
 
 ## Technologies I use
 
-For most of my projects, I use HML 5, CSS 3, JavaScript and PHP for now. 😁
+For most of my projects, I use to do it with this languages. 😁
 
 <p align="center">	
     <img src="./images/react.png" width="65" height="60" />
