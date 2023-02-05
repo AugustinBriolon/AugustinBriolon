@@ -14,9 +14,9 @@
 
 You can follow me on my networks and find me on my portfolio.
 
-<a href="https://github.com/AugustinBriolon"><img src="https://img.shields.io/badge/AugustinBriolon-24292e?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/augustin-briolon/"><img src="https://img.shields.io/badge/AugustinBriolon-00A2FF?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://august1.dev/)
+[![linkedin](https://img.shields.io/badge/AugustinBriolon-00A2FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augustin-briolon/)
+[![github](https://img.shields.io/badge/AugustinBriolon-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AugustinBriolon)
 
 ---
 
