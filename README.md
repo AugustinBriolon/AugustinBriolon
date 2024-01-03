@@ -22,7 +22,7 @@ You can follow me on my networks and find me on my portfolio.
 
 For most of my projects, I use to do it with this languages. 😁
 
-<p align="center">	
+<p align="left">	
     <img src="./images/react.png" width="65" height="60" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="./images/nuxt.png" width="65" height="50" />
@@ -36,7 +36,6 @@ For most of my projects, I use to do it with this languages. 😁
 </p>
 
 
-<p align="center">
+<p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustinBriolon&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=white&locale=fr" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AugustinBriolon&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=white&locale=fr" />
 </p>
