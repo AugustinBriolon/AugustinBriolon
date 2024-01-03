@@ -15,9 +15,9 @@
 You can follow me on my networks and find me on my portfolio.
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://august1.dev/)
-[![linkedin](https://img.shields.io/badge/AugustinBriolon-00A2FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augustin-briolon/)
+[![linkedin](https://img.shields.io/badge/AugustinBriolon-2d64bc?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augustin-briolon/)
 [![twitter](https://img.shields.io/badge/AugustinBriolon-00A2FF?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AugustinBriolon)
-[![github](https://img.shields.io/badge/AugustinBriolon-24292e?style=for-the-badge&logo=github&logoColor=blue)](https://github.com/AugustinBriolon)
+[![github](https://img.shields.io/badge/AugustinBriolon-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AugustinBriolon)
 
 ---
 
