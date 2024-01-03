@@ -4,10 +4,7 @@
 
 ## I'm a French developer practicing development since 2020
 
-
-* 🌱    I’m currently learning eveyday 
 * 📘	Here it's my PorFolio : https://august1.dev
-* 👨‍💻    All of my projects are available at https://github.com/AugustinBriolon?tab=repositories
 * 📫 	How to reach me: briolon@august1.dev
 
 <br />
