@@ -1,41 +1,26 @@
-<img align="right" width="30%" src="https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif?cid=ecf05e47yng7ezmnf7at7y8xwpcd3h8eo702fjopjc4tvkxt&rid=giphy.gif&ct=g"/>
+<h1 align="center">Hi 👋, I'm Augustin Briolon</h1>
+<h3 align="center">A passionate frontend developer</h3>
 
-# Hi there, I'm Augustin 👋
+- 👨‍💻 All of my projects are available at [august1.dev](august1.dev)
 
-## I'm a French developer practicing development since 2020
+- 📫 You can reach me <a href="mailto:briolon@august1.dev">here</a>
 
-* 📘	Here it's my PorFolio : https://august1.dev
-* 📫 	How to reach me: briolon@august1.dev
-
-<br />
-
-You can follow me on my networks and find me on my portfolio.
-
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://august1.dev/)
-[![linkedin](https://img.shields.io/badge/AugustinBriolon-2d64bc?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augustin-briolon/)
-[![twitter](https://img.shields.io/badge/AugustinBriolon-00A2FF?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AugustinBriolon)
-[![github](https://img.shields.io/badge/AugustinBriolon-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AugustinBriolon)
-
----
-
-## Technologies I use
-
-For most of my projects, I use to do it with this languages. 😁
-
-<p align="left">	
-    <img src="./images/react.png" width="65" height="60" />
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="./images/nuxt.png" width="65" height="50" />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="./images/vue.png" width="65" height="60" />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="./images/tailwind.png" width="65" height="60" />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="./images/sass.png" width="75" height="60" />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustinBriolon&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=white&locale=fr" />
+<a href="https://twitter.com/augustinbriolon" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="augustinbriolon" height="30" width="40" />
+</a>
+<a href="https://linkedin.com/in/augustinbriolon" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="augustinbriolon" height="30" width="40" />
+</a>
 </p>
+
+<h3 align="left" style="margin-top: 15px;">Favorites Languages and Tools :</h3>
+<p align="left">
+  NuxtJS / React / Vite / TypeScript / AWS / Tailwind 
+</p>
+
+  <p style="width: 100%">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=augustinbriolon&show_icons=true&locale=en&layout=compact" alt="augustinbriolon" />
+  </p>
+
