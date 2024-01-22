@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Augustin Briolon</h1>
 <h3 align="left">A passionate frontend developer</h3>
 
-- 👨‍💻 All of my projects are available at [august1.dev](august1.dev)
+- 👨‍💻 All of my projects are available at [august1.dev](https://august1.dev/)
 
 - 📫 You can reach me <a href="mailto:briolon@august1.dev">here</a>
 
