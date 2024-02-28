@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [august1.dev](https://august1.dev/)
 
-- 🚀 You want to bring a project to life, reach me on [Malt](https://www.malt.fr/profile/augustinbriolon).
+- 🚀 You want to bring a project to life, reach me on [Malt](https://www.malt.fr/profile/augustinbriolon)
 
 - 📫 You can reach me <a href="mailto:briolon@august1.dev">here</a>
 
