@@ -1,8 +1,8 @@
 <h1 align="center">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Nelson"> I'm <a href="https://github.com/nelsonmurua913/" color="white" target="_blank">Augustin</a></h1>
 
-<samp>
+<p>
 A passionate frontend developer 🎡, time punctual🕒 and meticulous attention to detail.
-</samp>
+</p>
 
 ## 📊 My Stats
 
