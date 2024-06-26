@@ -1,21 +1,15 @@
-<h1 align="center">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Nelson"> I'm <a href="https://github.com/nelsonmurua913/" color="white" target="_blank">Augustin</a></h1>
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Nelson"> I'm <a href="https://github.com/nelsonmurua913/" color="white" target="_blank">Augustin</a></h1>
+# 📊 My Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AugustinBriolon&theme=github_dark)
 
-<p>
-A passionate frontend developer 🎡, time punctual 🕒 and meticulous attention to detail.
-</p>
+# My skill✨
+## Languages
+[![Languages](https://skillicons.dev/icons?i=ts,js,html,ts,py)](https://github.com/AugustinBriolon)
+## Libraries
+[![Libraries](https://skillicons.dev/icons?i=nextjs,react,nodejs,vue,nuxtjs,tailwind,express)](https://github.com/AugustinBriolon)
+## Tools
+[![Tools](https://skillicons.dev/icons?i=figma,xd)](https://github.com/AugustinBriolon)
+## Services
+[![Services](https://skillicons.dev/icons?i=github,postman)](https://github.com/AugustinBriolon)
 
-## 📊 My Stats
 
-<p align="center">
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=AugustinBriolon&theme=tokyonight_duo&hide_border=true" alt="nelsonmurua913" />
-  <p align="center"> All day I dream about code 🔥 </p>
-</p>
-
-## 🛠️ My Favorite Tools
-<p align="left">
-  React / Next / Vue / Nuxt / Vite / TypeScript / AWS / Tailwind 
-</p>
-
-  <p align="center" style="width: 100%">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=augustinbriolon&show_icons=true&locale=en&layout=compact" alt="augustinbriolon" />
-  </p>
