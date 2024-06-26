@@ -4,12 +4,12 @@
 
 # My skill✨
 ## Languages
-[![Languages](https://skillicons.dev/icons?i=ts,js,html,ts,py)](https://github.com/AugustinBriolon)
+[![Languages](https://skillicons.dev/icons?i=html,css,ts,js,py)](https://github.com/AugustinBriolon)
 ## Libraries
-[![Libraries](https://skillicons.dev/icons?i=nextjs,react,nodejs,vue,nuxtjs,tailwind,express)](https://github.com/AugustinBriolon)
+[![Libraries](https://skillicons.dev/icons?i=react,vue,nextjs,nuxtjs,tailwind,nodejs,express)](https://github.com/AugustinBriolon)
 ## Tools
 [![Tools](https://skillicons.dev/icons?i=figma,xd)](https://github.com/AugustinBriolon)
 ## Services
-[![Services](https://skillicons.dev/icons?i=github,postman)](https://github.com/AugustinBriolon)
+[![Services](https://skillicons.dev/icons?i=github,gitlab,postman)](https://github.com/AugustinBriolon)
 
 
