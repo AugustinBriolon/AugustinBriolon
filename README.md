@@ -5,13 +5,13 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AugustinBriolon&theme=github_dark)
 
 # My skill ✨
-## Languages
+## LANGUAGES
 [![Languages](https://skillicons.dev/icons?i=html,css,ts,js,py)](https://github.com/AugustinBriolon)
-## Libraries
+## FRAMEWORKS
 [![Libraries](https://skillicons.dev/icons?i=react,vue,nextjs,nuxtjs,tailwind,nodejs,express)](https://github.com/AugustinBriolon)
-## Tools
+## TOOLS
 [![Tools](https://skillicons.dev/icons?i=figma,xd)](https://github.com/AugustinBriolon)
-## Services
+## SERVICES
 [![Services](https://skillicons.dev/icons?i=github,gitlab,postman)](https://github.com/AugustinBriolon)
 
 
