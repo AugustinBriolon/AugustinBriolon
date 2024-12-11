@@ -4,13 +4,13 @@
 # My Stats 📊
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AugustinBriolon&theme=github_dark)
 
-# LANGUAGES
+## LANGUAGES
 [![Languages](https://skillicons.dev/icons?i=html,css,ts,js,py)](https://github.com/AugustinBriolon)
-# FRAMEWORKS
+## FRAMEWORKS
 [![Libraries](https://skillicons.dev/icons?i=react,vue,nextjs,nuxtjs,tailwind,nodejs,express)](https://github.com/AugustinBriolon)
-# TOOLS
+## TOOLS
 [![Tools](https://skillicons.dev/icons?i=figma,xd)](https://github.com/AugustinBriolon)
-# SERVICES
+## SERVICES
 [![Services](https://skillicons.dev/icons?i=github,gitlab,postman)](https://github.com/AugustinBriolon)
 
 
