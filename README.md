@@ -7,7 +7,7 @@
 ## LANGUAGES
 [![Languages](https://skillicons.dev/icons?i=html,css,ts,js,py)](https://github.com/AugustinBriolon)
 ## FRAMEWORKS
-[![Libraries](https://skillicons.dev/icons?i=react,vue,nextjs,nuxtjs,tailwind,nodejs,express)](https://github.com/AugustinBriolon)
+[![Libraries](https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,tailwind,nodejs,express)](https://github.com/AugustinBriolon)
 ## TOOLS
 [![Tools](https://skillicons.dev/icons?i=figma,xd)](https://github.com/AugustinBriolon)
 ## SERVICES
