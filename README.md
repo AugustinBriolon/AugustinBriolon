@@ -11,6 +11,6 @@
 ## TOOLS
 [![Tools](https://skillicons.dev/icons?i=figma,xd)](https://github.com/AugustinBriolon)
 ## SERVICES
-[![Services](https://skillicons.dev/icons?i=github,gitlab,postman)](https://github.com/AugustinBriolon)
+[![Services](https://skillicons.dev/icons?i=aws,github,gitlab,postman)](https://github.com/AugustinBriolon)
 
 
