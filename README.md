@@ -1,4 +1,4 @@
-# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Nelson"> I'm <a href="https://github.com/AugustinBriolon/" color="white" target="_blank">Augustin</a></h1>
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Nelson"> I'm <a href="https://github.com/AugustinBriolon/" color="white" target="_blank">Gus</a></h1>
 <img src="https://augustinbriolon.github.io/SIGNATURE-MAIL/logo/banniere.png"/>
 
 ## STATS 📊
