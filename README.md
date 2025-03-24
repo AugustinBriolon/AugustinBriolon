@@ -4,7 +4,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AugustinBriolon&theme=github_dark)
 
 ## LANGUAGES
-[![Languages](https://skillicons.dev/icons?i=html,css,ts,js,py)](https://github.com/AugustinBriolon)
+[![Languages](https://skillicons.dev/icons?i=ts,py)](https://github.com/AugustinBriolon)
 ## FRAMEWORKS
 [![Libraries](https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,tailwind,nodejs,express)](https://github.com/AugustinBriolon)
 ## TOOLS
